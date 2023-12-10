@@ -1,0 +1,19 @@
+version: "3.8"
+
+networks:
+  multiorb-core:
+    name: multiorb-core
+    driver: bridge
+    external: true
+
+services:
+  cunjur_public:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cunjur_public
+    restart: unless-stopped
+    networks:
+      - multiorb-core
+    volumes:
+      - ./public:/var/www/html
