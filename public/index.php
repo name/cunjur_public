@@ -53,6 +53,17 @@
         h2 {
             margin-bottom: 0px;
         }
+
+        #cunjur {
+            background-image: url(https://maddex.dev/anya.png);
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            width: 370px;
+            height: 314px;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
     </style>
 </head>
 
@@ -66,5 +77,7 @@
         <p>building an ultra-compact home compute cluster.</p>
         <small><sup>*</sup> reach out on <a href="https://x.com/cunjur" rel="noopener">Twitter</a>
     </div>
+
+    <div id="cunjur"></div>
 </body>
 </html>

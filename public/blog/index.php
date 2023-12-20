@@ -53,6 +53,17 @@
         h2 {
             margin-bottom: 0px;
         }
+
+        #cunjur {
+            background-image: url(https://maddex.dev/anya.png);
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            width: 370px;
+            height: 314px;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
     </style>
 </head>
 
@@ -69,6 +80,9 @@
         <br><br>
         <small><sup>*</sup> reach out on <a href="https://x.com/cunjur" rel="noopener">Twitter</a>
     </div>
+
+    <div id="cunjur"></div>
+
     <script>
         // Redirect to blog after 3 seconds
         setTimeout(function() {
