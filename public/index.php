@@ -74,7 +74,7 @@
             <a href="https://cunjur.uk" rel="noopener"><b>Home</b></a>, <a href="https://cunjur.uk/about" rel="noopener">About</a>, <a href="https://cunjur.uk/blog" rel="noopener">Blog</a>, <a href="https://x.com/cunjur" rel="noopener">Twitter</a>, <a href="https://github.com/name" rel="noopener">GitHub</a>
         </p>
         <p>eng. ml/ai. (ceo. @multiorb)</p>
-        <p>building an ultra-compact home compute cluster.</p>
+        <p>working on something new.</p>
         <small><sup>*</sup> reach out on <a href="https://x.com/cunjur" rel="noopener">Twitter</a>
     </div>
 
