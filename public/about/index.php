@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" 
       type="image/png" 
-      href="https://cunjur.uk/favicon.jpg">
+      href="https://cunjur.uk/fav.jpg">
     <link rel="canonical" href="https://cunjur.uk">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
@@ -21,7 +21,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="cunjur">
     <meta property="og:description" content="cunjur's site">
-    <meta property="og:image" content="https://cunjur.uk/favicon.jpg">
+    <meta property="og:image" content="https://cunjur.uk/fav.jpg">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -29,7 +29,7 @@
     <meta property="twitter:url" content="https://cunjur.uk/">
     <meta name="twitter:title" content="cunjur">
     <meta name="twitter:description" content="cunjur's site">
-    <meta name="twitter:image" content="https://cunjur.uk/favicon.jpg">
+    <meta name="twitter:image" content="https://cunjur.uk/fav.jpg">
 
     <style>
         body {
@@ -71,13 +71,10 @@
         <div id="maincontent" style="margin-top:70px">
         <h2><b>cunjur (<i>charlie</i>)</b></h2><br>
         <p>
-            <a href="https://cunjur.uk" rel="noopener">Home</a>, <a href="https://cunjur.uk/about" rel="noopener"><b>About</b></a>, <a href="https://cunjur.uk/blog" rel="noopener">Blog</a>, <a href="https://x.com/cunjur" rel="noopener">Twitter</a>, <a href="https://github.com/name" rel="noopener">GitHub</a>
+            <a href="https://cunjur.uk" rel="noopener">Home</a>, <a href="https://cunjur.uk/about" rel="noopener"><b>About</b></a>, <a href="https://cunjur.uk/supplements" rel="noopener">Supplements</a>, <a href="https://cunjur.uk/blog" rel="noopener">Blog</a>, <a href="https://x.com/cunjur" rel="noopener">Twitter</a>, <a href="https://github.com/name" rel="noopener">GitHub</a>, <a href="https://open.spotify.com/user/kowl7klfi4xxxke4f7t91vtor?si=6a11a5d9b9944b6e" rel="noopener">Spotify</a>
         </p>
         <p>
             I go by cunjur or charlie. I'm currently working with AI and ML to build software systems for clients.
-        </p>
-        <p>
-            Day-to-day I'm working with Python, Rust, and C++ in the cloud and on-premise to build systems that are highly available, scalable, and secure.
         </p>
         <small><sup>*</sup> reach out on <a href="https://x.com/cunjur" rel="noopener">Twitter</a>
     </div>
