@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" 
       type="image/png" 
-      href="https://cunjur.uk/fav.jpg">
+      href="https://cunjur.uk/anon.png">
     <link rel="canonical" href="https://cunjur.uk">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
@@ -21,7 +21,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="cunjur">
     <meta property="og:description" content="cunjur's site">
-    <meta property="og:image" content="https://cunjur.uk/fav.jpg">
+    <meta property="og:image" content="https://cunjur.uk/anon.png">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -29,7 +29,7 @@
     <meta property="twitter:url" content="https://cunjur.uk/">
     <meta name="twitter:title" content="cunjur">
     <meta name="twitter:description" content="cunjur's site">
-    <meta name="twitter:image" content="https://cunjur.uk/fav.jpg">
+    <meta name="twitter:image" content="https://cunjur.uk/anon.png">
 
     <style>
         body {
