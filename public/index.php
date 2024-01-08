@@ -55,7 +55,7 @@
         }
 
         #cunjur {
-            background-image: url(https://maddex.dev/anya.png);
+            background-image: url(https://cunjur.uk/anya.png);
             position: fixed;
             right: 0;
             bottom: 0;
