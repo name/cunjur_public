@@ -71,7 +71,7 @@
         <div id="maincontent" style="margin-top:70px">
         <h2><b>cunjur (<i>charlie</i>)</b></h2><br>
         <p>
-            <a href="https://cunjur.uk" rel="noopener"><b>Home</b></a>, <a href="https://cunjur.uk/about" rel="noopener">About</a>, <a href="https://cunjur.uk/supplements" rel="noopener">Supplements</a>, <a href="https://cunjur.uk/blog" rel="noopener">Blog</a>, <a href="https://x.com/cunjur" rel="noopener">Twitter</a>, <a href="https://github.com/name" rel="noopener">GitHub</a>, <a href="https://open.spotify.com/user/kowl7klfi4xxxke4f7t91vtor?si=6a11a5d9b9944b6e" rel="noopener">Spotify</a>
+            <a href="https://cunjur.uk" rel="noopener"><b>Home</b></a>, <a href="https://cunjur.uk/supplements" rel="noopener">Supplements</a>, <a href="https://x.com/cunjur" rel="noopener">Twitter</a>, <a href="https://github.com/name" rel="noopener">GitHub</a>, <a href="https://open.spotify.com/user/kowl7klfi4xxxke4f7t91vtor?si=76b58b35c45e4420" rel="noopener">Music</a>
         </p>
         <p>eng. ml/ai. (ceo. @multiorb)</p>
         <p>working on something new.</p>
